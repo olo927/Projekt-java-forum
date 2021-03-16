@@ -1,0 +1,17 @@
+A
+olo927,olo927@onet.pl,01876,2018,T,A
+andrew222,andrew@gg.com,00123,2019,N,U
+requ76,noretard@yahoo.com,00013,2019,T,U
+matssi21,tymre@dev.com,00321,2019,T,U
+danio97,dani@onet.pl,02145,2017,T,A
+Haberek134,hubson@wp.pl,00089,2018,N,U
+edntre33,ender@ghy.pl,00034,2018,N,U
+qwerty123456,gqer@dynamo.com,04563,2017,T,A
+malgosia2001,mag.mil@poczta.onet.pl,00520,2018,N,M
+janusz089,janusz@wp.pl,00001,2019,N,U
+demon524,kamyk@op.pl,00126,2019,N,U
+StefCIO1965,stefan12@onet.pl,00345,2018,T,M
+NNNNN1243,nygusek@gmail.com,00016,2019,N,U
+ROmEK56,roman.burek@poczta.pl,00000,2019,N,U
+rOnIn33,ronuwerty@wp.pl,00015,2018,T,U
+EOF

@@ -1,0 +1,17 @@
+U
+Marcin,Nowak,m.nowak@gmail.com,L,1994,Gliwice
+Andrzej,Drewniak,a.drewniak@onet.pl,XL,1984,Sosnowiec
+Roman,Kowalski,romek@op.pl,XXL,2001,Katowice
+Marcel,Przybylski,mar.przybylski@wp.pl,M,2003,Gliwice
+Michael,Wroblewski,michwrob@poczta.onet.pl,M,1988,Warszawa
+Daniel,Konik,konik69@spoko.pl,XL,1998,Katowice
+Sylwester,Domanski,s.domanski@o2.pl,XS,1990,Gliwice
+Andrzej,Stolarz,andrzej.stol@gmail.com,XL,1998,Gliwice
+Mateusz,Mazur,m.mazur@wp.pl,XXL,1989,Pruchnik
+Jacek,Wieczorek,j.wieczorek@onet.pl,L,1965,Warszawa
+Daniel,Wilmont,willy86@g2.com,S,1986,Szczecin
+Andrzej,Wolski,a.wolski@wp.pl,XL,1998,Bytom
+John,Black,johnny.black@yahoo.com,XL,1998,Glasgow
+Mateusz,Kowalski,kowal333@onet.pl,XS,1998,Katowice
+Artur,Kermit,a.kermit@gmail.com,XL,1987,Zakopane
+EOF
